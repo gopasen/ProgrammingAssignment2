@@ -1,4 +1,4 @@
-## The functiona below cab be used to compute, cache and return the  inverse of a matrix. If the inverse of a matrix has already been computed earlier, then it retrieves the inverse from the cache.
+## The functiona below can be used to compute, cache and retrieve  inverse of a matrix. If the inverse of a matrix has already been computed earlier, then it retrieves the inverse from the cache.
 
 
 
